@@ -1,0 +1,17 @@
+content:
+  - Integers in action
+  - Getting substrings
+  - Processing strings
+  - String basics
+  - For loop and ranges
+  - Data types
+  - Functional decomposition
+  - Declaring classes
+  - Constructors
+  - Nullable and non-nullable types
+  - Null safety
+  - Member functions
+  - Scopes
+  - Inheritance
+  - toString()
+  - Data class

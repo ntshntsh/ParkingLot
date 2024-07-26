@@ -1,0 +1,23 @@
+type: matching
+captions:
+  - a
+  - b
+  - c
+  - d
+options:
+  - Valid declaration without type inference
+  - "Invalid declaration, the variable doesn't have a type"
+  - Valid declaration with type inference
+  - Invalid declaration with type mismatch
+files:
+  - name: src/Main.kt
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/4405#comment
+status: Solved
+record: -1
+ordering:
+  - 0
+  - 1
+  - 2
+  - 3

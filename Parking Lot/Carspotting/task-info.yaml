@@ -1,0 +1,18 @@
+type: edu
+files:
+  - name: src/parking/Main.kt
+    visible: true
+    learner_created: false
+  - name: test/ParkingTest.kt
+    visible: false
+    learner_created: false
+  - name: src/parking/ParkingLot.kt
+    visible: true
+    learner_created: true
+feedback_link: https://hyperskill.org/learn/step/6601#comment
+status: Solved
+feedback:
+  message: Well done! You've finished the project. Select a new project on <a href="https://hyperskill.org/projects">Hyperskill</a>
+    to continue learning.
+  time: "Thu, 25 Jul 2024 21:00:08 UTC"
+record: 5

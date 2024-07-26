@@ -1,0 +1,15 @@
+type: choice
+is_multiple_choice: false
+options:
+  - text: "cost=10, name=Espresso"
+  - text: "cost=10, name="
+  - text: "cost=10, name=Drink"
+  - text: "cost=, name=Espresso"
+files:
+  - name: src/Main.kt
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/10198#comment
+status: Solved
+record: -1
+local_check: false

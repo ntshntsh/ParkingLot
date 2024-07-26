@@ -1,0 +1,15 @@
+type: choice
+is_multiple_choice: true
+options:
+  - text: println("22" + 0 + 2)
+  - text: 'println("2" + 2 + 2) '
+  - text: println("2" + 2 + 1 + 1)
+  - text: println("222")
+files:
+  - name: src/Main.kt
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/12556#comment
+status: Solved
+record: -1
+local_check: false

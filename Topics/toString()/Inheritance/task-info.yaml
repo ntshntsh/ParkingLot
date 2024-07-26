@@ -1,0 +1,19 @@
+type: choice
+is_multiple_choice: false
+options:
+  - text: By definition in parent class
+  - text: A compilation error will occur
+  - text: "By default, as if it hasn't been overridden"
+files:
+  - name: src/Main.kt
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/10195#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: "Tue, 14 Nov 2023 07:56:12 UTC"
+record: -1
+selected_options:
+  - 0
+local_check: false

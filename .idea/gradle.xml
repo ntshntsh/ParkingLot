@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleJvm" value="#GRADLE_LOCAL_JAVA_HOME" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Parking Lot/task" />
+            <option value="$PROJECT_DIR$/Parking Lot/task/build/classes/kotlin" />
+            <option value="$PROJECT_DIR$/Parking Lot/task/build/reports/tests" />
+            <option value="$PROJECT_DIR$/Parking Lot/task/build/test-results" />
+            <option value="$PROJECT_DIR$/Parking Lot/task/build/tmp" />
+            <option value="$PROJECT_DIR$/Topics/Constructors/How many primary constructors" />
+            <option value="$PROJECT_DIR$/Topics/Constructors/Implicit constructor" />
+            <option value="$PROJECT_DIR$/Topics/Constructors/Pets" />
+            <option value="$PROJECT_DIR$/Topics/Constructors/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Data class/Allowance for constructors" />
+            <option value="$PROJECT_DIR$/Topics/Data class/Generated functions" />
+            <option value="$PROJECT_DIR$/Topics/Data class/Not overridable" />
+            <option value="$PROJECT_DIR$/Topics/Data class/Room mystery" />
+            <option value="$PROJECT_DIR$/Topics/Data class/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Data class/toString() modification" />
+            <option value="$PROJECT_DIR$/Topics/Data types/Correct description of the data type" />
+            <option value="$PROJECT_DIR$/Topics/Data types/Edit it" />
+            <option value="$PROJECT_DIR$/Topics/Data types/Fill in the type" />
+            <option value="$PROJECT_DIR$/Topics/Data types/Fix the program" />
+            <option value="$PROJECT_DIR$/Topics/Data types/Match declarations" />
+            <option value="$PROJECT_DIR$/Topics/Data types/Select correct statements about types" />
+            <option value="$PROJECT_DIR$/Topics/Data types/The form of declaration without type inference" />
+            <option value="$PROJECT_DIR$/Topics/Data types/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Declaring classes/New planet" />
+            <option value="$PROJECT_DIR$/Topics/Declaring classes/Theory" />
+            <option value="$PROJECT_DIR$/Topics/For loop and ranges/Count the numbers" />
+            <option value="$PROJECT_DIR$/Topics/For loop and ranges/Fizz Buzz" />
+            <option value="$PROJECT_DIR$/Topics/For loop and ranges/The roots of equation" />
+            <option value="$PROJECT_DIR$/Topics/For loop and ranges/The sum of N numbers" />
+            <option value="$PROJECT_DIR$/Topics/For loop and ranges/The sum of integers from a to b" />
+            <option value="$PROJECT_DIR$/Topics/For loop and ranges/Theory" />
+            <option value="$PROJECT_DIR$/Topics/For loop and ranges/Understanding ranges" />
+            <option value="$PROJECT_DIR$/Topics/Functional decomposition/Create a full name" />
+            <option value="$PROJECT_DIR$/Topics/Functional decomposition/Roots of quadratic equation" />
+            <option value="$PROJECT_DIR$/Topics/Functional decomposition/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Functional decomposition/What are the advantages of decomposing" />
+            <option value="$PROJECT_DIR$/Topics/Getting substrings/Case insensitive" />
+            <option value="$PROJECT_DIR$/Topics/Getting substrings/Exchange" />
+            <option value="$PROJECT_DIR$/Topics/Getting substrings/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Inheritance/Fix bugs" />
+            <option value="$PROJECT_DIR$/Topics/Inheritance/Keyword" />
+            <option value="$PROJECT_DIR$/Topics/Inheritance/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Integers in action/Desks" />
+            <option value="$PROJECT_DIR$/Topics/Integers in action/Divide nuts equally between squirrels" />
+            <option value="$PROJECT_DIR$/Topics/Integers in action/How many nuts will be left after division" />
+            <option value="$PROJECT_DIR$/Topics/Integers in action/Integer division" />
+            <option value="$PROJECT_DIR$/Topics/Integers in action/The first digit of a two-digit number" />
+            <option value="$PROJECT_DIR$/Topics/Integers in action/The last digit of a number" />
+            <option value="$PROJECT_DIR$/Topics/Integers in action/The number of tens" />
+            <option value="$PROJECT_DIR$/Topics/Integers in action/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Integers in action/Time difference" />
+            <option value="$PROJECT_DIR$/Topics/Integers in action/Time format" />
+            <option value="$PROJECT_DIR$/Topics/Integers in action/Underscore" />
+            <option value="$PROJECT_DIR$/Topics/Member functions/Bugs in a vinyl store" />
+            <option value="$PROJECT_DIR$/Topics/Member functions/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Null safety/Elvis throwing exceptions" />
+            <option value="$PROJECT_DIR$/Topics/Null safety/Fake operator" />
+            <option value="$PROJECT_DIR$/Topics/Null safety/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Nullable and non-nullable types/Declare null" />
+            <option value="$PROJECT_DIR$/Topics/Nullable and non-nullable types/Mixed nullable" />
+            <option value="$PROJECT_DIR$/Topics/Nullable and non-nullable types/Null or not null" />
+            <option value="$PROJECT_DIR$/Topics/Nullable and non-nullable types/Safe call" />
+            <option value="$PROJECT_DIR$/Topics/Nullable and non-nullable types/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Processing strings/Create a euphonious word" />
+            <option value="$PROJECT_DIR$/Topics/Processing strings/Determine the value" />
+            <option value="$PROJECT_DIR$/Topics/Processing strings/Determine the value (1)" />
+            <option value="$PROJECT_DIR$/Topics/Processing strings/Lucky number" />
+            <option value="$PROJECT_DIR$/Topics/Processing strings/Piece of alphabet" />
+            <option value="$PROJECT_DIR$/Topics/Processing strings/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Scopes/Cyclist" />
+            <option value="$PROJECT_DIR$/Topics/Scopes/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Scopes/Unlucky one" />
+            <option value="$PROJECT_DIR$/Topics/String basics/Addition and multiplication" />
+            <option value="$PROJECT_DIR$/Topics/String basics/Appending numbers to strings" />
+            <option value="$PROJECT_DIR$/Topics/String basics/Concatenation" />
+            <option value="$PROJECT_DIR$/Topics/String basics/Correct ways to create a string" />
+            <option value="$PROJECT_DIR$/Topics/String basics/I'm learning Kotlin" />
+            <option value="$PROJECT_DIR$/Topics/String basics/JSON" />
+            <option value="$PROJECT_DIR$/Topics/String basics/Theory" />
+            <option value="$PROJECT_DIR$/Topics/toString()/Espresso" />
+            <option value="$PROJECT_DIR$/Topics/toString()/Inheritance" />
+            <option value="$PROJECT_DIR$/Topics/toString()/Number of cups" />
+            <option value="$PROJECT_DIR$/Topics/toString()/Theory" />
+            <option value="$PROJECT_DIR$/Topics/toString()/User Information" />
+            <option value="$PROJECT_DIR$/util" />
+          </set>
+        </option>
+        <option name="resolveExternalAnnotations" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

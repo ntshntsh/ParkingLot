@@ -1,0 +1,15 @@
+type: choice
+is_multiple_choice: true
+options:
+  - text: copy()
+  - text: toString()
+  - text: compareTo()
+  - text: getter() and setter()
+files:
+  - name: src/Main.kt
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/8527#comment
+status: Solved
+record: -1
+local_check: false
